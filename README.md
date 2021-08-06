@@ -1,3 +1,3 @@
 # Fire-Extinguisher-Bot
 Open Projects 2021
-![Bot Design](https://drive.google.com/file/d/1kn0VJrYyr580dafb6XHhTcK3RhJ-88tm/view?usp=sharing)
+![Bot Design](Images_videos/Images/Bot_view_1.jpg)
