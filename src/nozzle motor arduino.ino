@@ -4,8 +4,10 @@
 int servoPin_y = 6;  //for rotation in vertical plane
 int servoPin_x = 5;  //for rotation in horizontal plane
 int pumpPin = 4;
+
 Servo Servo_y;
 Servo Servo_x; 
+
 void setup() {
   Serial.begin(9600);
   Serial.setTimeout(100);
@@ -50,12 +52,14 @@ int extractX(String data){
   data.remove(data.indexOf("Y"));
   data.remove(data.indexOf("X"),1);
   return data.toFloat();
-  }
+}
+
 int extractY(String data){
   data.remove(data.indexOf("Z"));
   data.remove(0,data.indexOf("Y")+1);
   return data.toFloat();
-  }
+}
+
 int extractZ(String data){
 data.remove(0,data.indexOf("Z")+1);
 return data.toFloat();
