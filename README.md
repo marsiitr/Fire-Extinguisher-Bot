@@ -9,10 +9,13 @@
 <div align="center"><em>Bot View 2</em></div>
 <br/>
 
-## Abstract
+<p align="justify">
+  
+## Abstract 
 - Automatic Fire Extinguisher Robot is a Hardware-based model used to put out the fire during fire accidents automatically. The Bot has features to move in the direction of fire  and extinguish it automatically.
 - The Bot finds its applications in rescue operations during fire accidents where concerned authorities can take time to enter the fire-prone areas.
 - Development of this autonomus bot using Controllers and image processing can help us to control fire without human inputs.Thus, minimising delays and unavailiblity of services.
+ 
 ## Motivation
 The motivation behind this project essentially originated from our desire to learn new things. We can use this autonomous bot in case of laboratories or domestic fires, which can save lives or act as a quick remedy before the concerned authorities arrive. Although this technology is relatively unused in India, it can significantly impact the lives we lose to Fire incidents and our complete dependency on Emergency services.
 
@@ -72,16 +75,9 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 <br/>
 
 ## Applications
-- Solidworks
-  > For complete Bot designing 
-- Coppeliasim
-   > For simulation of stair climbing and fire detection
-- Python with openCV
-   > For Image processing and nozzle working
-- Arduino microcontroller
-   > For nozzle motor working 
-- Tinkercad
-   > For simulation of Temperature sensor
+- The main objective of the fire extinguishing bot is to search for the fire and put it off. Sensors are used to evaluate the environment in which the bot is operating and allows the bot to adjust actions based on collected data. The buzzer used will be helpful in alarming people about the danger.
+- As it is an autonomus bot which uses Controllers and image processing, so it can help us to control fire without human inputs.
+- Using this bot we can minimise delays and unavailiblity of services during emergency.
 
 ## Cost Structure
 | Components   |Amount(INR)  |      Quantity      |  Cost(INR) |
@@ -94,6 +90,7 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 |Encoder|1500|1| 1500|
 |Dc motors|1500|1| 1500|
 |Lead screw|100|1| 100|
+|**Total Cost**| | |**4559**|
 
 
 ## Limitations
@@ -104,6 +101,9 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 * Install cameras in every room
 * Link with smoke sensors in the area
 * Use custom made cylinders to avoid manual assistance
+
+</p>
+
 ## Team members
 1. [Akanksha vijayvergiya](https://github.com/Akanksha-247)
 2. [Eeshan punde](https://github.com/eeshanpunde14)
