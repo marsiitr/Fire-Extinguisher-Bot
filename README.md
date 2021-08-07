@@ -73,9 +73,15 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 
 ## Applications
 - Solidworks
+  > For complete Bot designing 
 - Coppeliasim
-- Tinkercad
+   > For simulation of stair climbing and fire detection
 - Python with openCV
+   > For Image processing and nozzle working
+- Arduino microcontroller
+   > For nozzle motor working 
+- Tinkercad
+   > For simulation of Temperature sensor
 
 ## Cost Structure
 | Components   |Amount(INR)  |      Quantity      |  Cost(INR) |
