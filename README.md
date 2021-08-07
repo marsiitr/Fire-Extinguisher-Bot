@@ -68,16 +68,16 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 * Link with smoke sensors in the area
 * Use custom made cylinders to avoid manual assistance
 ## Team members
-1. Akanksha vijayvergiya
-2. Eeshan punde
-3. Ganesh kalanidhi
-4. Mritunjay kumar choubey
-5. Poreddy sahith reddy
-6. Srushti parbat
+1. [Akanksha vijayvergiya](https://github.com/Akanksha-247)
+2. [Eeshan punde](https://github.com/eeshanpunde14)
+3. [Ganesh kalanidhi]()
+4. [Mritunjay kumar choubey](https://github.com/Ch0ubey)
+5. [Poreddy sahith reddy](https://github.com/sahithreddyporeddy)
+6. [Srushti parbat](https://github.com/SrushtiParbat)
 ## Mentors
-1. Naman agarwalla
-2. Parul chaudhary
-3. Shubham goyal
+1. [Naman agarwalla]()
+2. [Parul chaudhary](https://github.com/Parul253)
+3. [Shubham goyal](https://github.com/shubham491981)
 ## Refrences link
 - [Coppeliasim Tutorial](https://www.youtube.com/watch?v=PwGY8PxQOXY&list=PLjzuoBhdtaXOoqkJUqhYQletLLnJP8vjZ)
 - [Solidworks Tutorial](https://youtube.com/playlist?list=PLkMYhICFMsGajeARsY7N1t1jhbtMb1poL)
