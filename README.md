@@ -28,7 +28,7 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 >The nozzle is a 2-axis gimbal. This Mechanism can rotate 30 degrees in both horizontal directions and 30 degrees in both vertical directions.
 
 <p align="center">
-  <img src="https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/675ec79065b406595411fb3a4fc21760a32cbd39/Images_videos/Images/Nozzle%20Mechanism.PNG">
+  <img src="https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/e53ffc0dbc5896a10a27d20bba5699513d492f58/Images%20and%20Videos/Images/Nozzle%20Mechanism.PNG">
   <br/><i>Nozzle mechanism</i>
 </p>
 
