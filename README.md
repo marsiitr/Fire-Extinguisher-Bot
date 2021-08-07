@@ -19,7 +19,7 @@ The motivation behind this project essentially originated from our desire to lea
 ## Mechanical Aspect of Design
 The Mechanical Design is explicitly made for significant weight carrying capacity. It is sturdy and reliable and can easily transverse through domestic terrain.
 The navigation of this can be both manual and automated. In the automatic mode, it is regulated via a PID Wall Following System.
-> ### Wheel Assembly
+> ## Wheel Assembly
 > 
 >The bot uses the Timing Belt Mechanism for the wheel Assembly. It provides an advantage of effortless mobility and significant weight carrying capacity over all the other mechanisms.
 
@@ -28,7 +28,7 @@ The navigation of this can be both manual and automated. In the automatic mode, 
   <br/><i>Timing Belt and Rollers</i>
 </p>
 
-> ### Nozzle Mechanism
+> ## Nozzle Mechanism
 > 
 >The nozzle is a 2-axis gimbal. This Mechanism can rotate 30 degrees in both horizontal directions and 30 degrees in both vertical directions.
 
@@ -37,7 +37,7 @@ The navigation of this can be both manual and automated. In the automatic mode, 
   <br/><i>Nozzle mechanism</i>
 </p>
 
-> ### Handle Pushing Mechanism
+> ## Handle Pushing Mechanism
 > 
 >Leadscrew Mechanism can provide a torque of a considerable magnitude and resist the back force applied by the handle. Due to these factors, we use a leadscrew mechanism for handle pushing in our bot.
 
@@ -46,7 +46,7 @@ The navigation of this can be both manual and automated. In the automatic mode, 
   <i>Leadscrew mechanism</i>
 </p>
 
-> ### Stair Climbing
+> ## Stair Climbing
 > 
 >The stair climbing mechanism works based on two-timing belts, positioned at an angle of 23 Degrees from the ground. We decided on this angle after a brief round of simulation on coppeliasim.
 
@@ -70,6 +70,12 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 ![Bot Design](https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/734ad0370c93da568aa504aa3b49e69dac5bd6af/Images%20and%20Videos/Images/Image_processing_openCV.jpg)
 <div align="center"><em>Image processing</em></div>
 <br/>
+
+## Applications
+- Solidworks
+- Coppeliasim
+- Tinkercad
+- Python with openCV
 
 ## Cost Structure
 | Components   |Amount(INR)  |      Quantity      |  Cost(INR) |
