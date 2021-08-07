@@ -76,7 +76,7 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 5. [Poreddy sahith reddy](https://github.com/sahithreddyporeddy)
 6. [Srushti parbat](https://github.com/SrushtiParbat)
 ## Mentors
-1. [Naman agarwalla]()
+1. [Naman agarwalla](https://github.com/naman99-agar)
 2. [Parul chaudhary](https://github.com/Parul253)
 3. [Shubham goyal](https://github.com/shubham491981)
 ## Refrences link
