@@ -1,11 +1,11 @@
 # Fire-Extinguisher-Bot
 *Open Projects 2021*
 ----
-![Bot Design](Images_videos/Images/Bot_view_1.jpg)
+![Bot Design](https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/99d7aaeea15895aa91a57da3c2a6b9b1c1923cc6/Images%20and%20Videos/Images/Bot_view_1.jpg)
 <div align="center"><em>Bot View 1</em></div>
 <br/>
 
-![Bot Design 2](Images_videos/Images/Bot_view_4.PNG)
+![Bot Design 2](https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/99d7aaeea15895aa91a57da3c2a6b9b1c1923cc6/Images%20and%20Videos/Images/Bot_view_4.PNG)
 <div align="center"><em>Bot View 2</em></div>
 <br/>
 
@@ -19,11 +19,16 @@ The motivation behind this project essentially originated from our desire to lea
 ## Mechanical Aspect of Design
 The Mechanical Design is explicitly made for significant weight carrying capacity. It is sturdy and reliable and can easily transverse through domestic terrain.
 The navigation of this can be both manual and automated. In the automatic mode, it is regulated via a PID Wall Following System.
-> ## Wheel Assembly
+> ### Wheel Assembly
 > 
 >The bot uses the Timing Belt Mechanism for the wheel Assembly. It provides an advantage of effortless mobility and significant weight carrying capacity over all the other mechanisms.
 
-> ## Nozzle Mechanism
+<p align="center">
+  <img src="https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/734ad0370c93da568aa504aa3b49e69dac5bd6af/Images%20and%20Videos/Images/Bot_view_2.PNG">
+  <br/><i>Timing Belt and Rollers</i>
+</p>
+
+> ### Nozzle Mechanism
 > 
 >The nozzle is a 2-axis gimbal. This Mechanism can rotate 30 degrees in both horizontal directions and 30 degrees in both vertical directions.
 
@@ -32,19 +37,23 @@ The navigation of this can be both manual and automated. In the automatic mode, 
   <br/><i>Nozzle mechanism</i>
 </p>
 
-> ## Handle Pushing Mechanism
+> ### Handle Pushing Mechanism
 > 
 >Leadscrew Mechanism can provide a torque of a considerable magnitude and resist the back force applied by the handle. Due to these factors, we use a leadscrew mechanism for handle pushing in our bot.
 
 <p align="center">
-  <img src="Images_videos/Images/Bot_view_2.PNG"><br/>
-  <i>Bot Design</i>
+  <img src="https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/734ad0370c93da568aa504aa3b49e69dac5bd6af/Images%20and%20Videos/Images/Leadscrew%20mechanism.jpeg"><br/>
+  <i>Leadscrew mechanism</i>
 </p>
 
-> ## Stair Climbing
+> ### Stair Climbing
 > 
 >The stair climbing mechanism works based on two-timing belts, positioned at an angle of 23 Degrees from the ground. We decided on this angle after a brief round of simulation on coppeliasim.
 
+<p align="center">
+  <img src="https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/99d7aaeea15895aa91a57da3c2a6b9b1c1923cc6/Images%20and%20Videos/Images/Bot_view_3.PNG">
+  <br/><i>Wheel assembly</i>
+</p>
 
 ## Electrical Aspect of Design
 - We used microcontrollers for BOT movement and nozzle movement.
@@ -58,7 +67,7 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 - For image processing we used camera (*as a Hardware part*). The image processing Software used is OpenCV. The data about the image is fed to OpenCV, where the image is converted to HSV and GreyScale format. Approximate Centre Coordinates of the fire are calculated. This Data is then stored in a text file for the simulation software or Audrino to use.
 <br/>
 
-![Bot Design](Images_videos/Images/Image_processing_openCV.jpg)
+![Bot Design](https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/734ad0370c93da568aa504aa3b49e69dac5bd6af/Images%20and%20Videos/Images/Image_processing_openCV.jpg)
 <div align="center"><em>Image processing</em></div>
 <br/>
 
@@ -86,7 +95,7 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 ## Team members
 1. [Akanksha vijayvergiya](https://github.com/Akanksha-247)
 2. [Eeshan punde](https://github.com/eeshanpunde14)
-3. [Ganesh kalanidhi]()
+3. [Ganesh kalanidhi](https://github.com/GaneshK-RKE)
 4. [Mritunjay kumar choubey](https://github.com/Ch0ubey)
 5. [Poreddy sahith reddy](https://github.com/sahithreddyporeddy)
 6. [Srushti parbat](https://github.com/SrushtiParbat)
