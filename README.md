@@ -1,5 +1,6 @@
-# **Fire-Extinguisher-Bot**
+# Fire-Extinguisher-Bot
 *Open Projects 2021*
+----
 ![Bot Design](Images_videos/Images/Bot_view_1.jpg)
 <div align="center"><em>Bot View 1</em></div>
 <br/>
@@ -8,7 +9,7 @@
 <div align="center"><em>Bot View 2</em></div>
 <br/>
 
-## **Abstract**
+## Abstract
 - Automatic Fire Extinguisher Robot is a Hardware-based model used to put out the fire during fire accidents automatically. The Bot has features to move in the direction of fire  and extinguish it automatically.
 - The Bot finds its applications in rescue operations during fire accidents where concerned authorities can take time to enter the fire-prone areas.
 - Development of this autonomus bot using Controllers and image processing can help us to control fire without human inputs.Thus, minimising delays and unavailiblity of services.
