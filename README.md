@@ -51,8 +51,8 @@ The motivation behind this project essentially originated from our desire to lea
 2. Parul chaudhary
 3. Shubham goyal
 ## Refrences link
-- https://www.youtube.com/watch?v=PwGY8PxQOXY&list=PLjzuoBhdtaXOoqkJUqhYQletLLnJP8vjZ
-- https://www.youtube.com/results?search_query=solidworks+tutorial
-- https://www.youtube.com/watch?v=i6UoxhNlr1U
-- https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
-- https://www.coppeliarobotics.com/helpFiles/index.html
+- [Coppeliasim Tutorial](https://www.youtube.com/watch?v=PwGY8PxQOXY&list=PLjzuoBhdtaXOoqkJUqhYQletLLnJP8vjZ)
+- [Solidworks Tutorial](https://youtube.com/playlist?list=PLkMYhICFMsGajeARsY7N1t1jhbtMb1poL)
+- [2 axis gimbal](https://www.youtube.com/watch?v=i6UoxhNlr1U)
+- [Image processing openCV](https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq)
+- [Coppeliasim Documentation](https://www.coppeliarobotics.com/helpFiles/index.html)
