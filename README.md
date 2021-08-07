@@ -78,7 +78,7 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 - The main objective of the fire extinguishing bot is to search for the fire and put it off. Sensors are used to evaluate the environment in which the bot is operating and allows the bot to adjust actions based on collected data. The buzzer used will be helpful in alarming people about the danger.
 - As it is an autonomus bot which uses Controllers and image processing, so it can help us to control fire without human inputs.
 - Using this bot we can minimise delays and unavailiblity of services during emergency.
-- It Can be used in extinguishing fire where probability of explosion is high. For eg. Hotel kitchens, LPG/CNG gas stores, etc.
+- It can be highly useful in extinguishing fire where probability of explosion is high. For eg. Hotel kitchens, LPG/CNG gas stores, etc.
 
 ## Cost Structure
 | Components   |Amount(INR)  |      Quantity      |  Cost(INR) |
