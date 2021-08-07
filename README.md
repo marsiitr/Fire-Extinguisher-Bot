@@ -19,16 +19,31 @@ The motivation behind this project essentially originated from our desire to lea
 ## Mechanical Aspect of Design
 The Mechanical Design is explicitly made for significant weight carrying capacity. It is sturdy and reliable and can easily transverse through domestic terrain.
 The navigation of this can be both manual and automated. In the automatic mode, it is regulated via a PID Wall Following System.
+> ## Wheel Assembly
+> 
+>The bot uses the Timing Belt Mechanism for the wheel Assembly. It provides an advantage of effortless mobility and significant weight carrying capacity over all the other mechanisms.
+
+> ## Nozzle Mechanism
+> 
+>The nozzle is a 2-axis gimbal. This Mechanism can rotate 30 degrees in both horizontal directions and 30 degrees in both vertical directions.
+
+<p align="center">
+  <img src="https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/675ec79065b406595411fb3a4fc21760a32cbd39/Images_videos/Images/Nozzle%20Mechanism.PNG">
+  <br/><i>Nozzle mechanism</i>
+</p>
+
+> ## Handle Pushing Mechanism
+> 
+>Leadscrew Mechanism can provide a torque of a considerable magnitude and resist the back force applied by the handle. Due to these factors, we use a leadscrew mechanism for handle pushing in our bot.
 
 <p align="center">
   <img src="Images_videos/Images/Bot_view_2.PNG"><br/>
   <i>Bot Design</i>
 </p>
-<br/>
-<p align="center">
-  <img src="https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/675ec79065b406595411fb3a4fc21760a32cbd39/Images_videos/Images/Nozzle%20Mechanism.PNG">
-  <br/><i>Nozzle mechanism</i>
-</p>
+
+> ## Stair Climbing
+> 
+>The stair climbing mechanism works based on two-timing belts, positioned at an angle of 23 Degrees from the ground. We decided on this angle after a brief round of simulation on coppeliasim.
 
 
 ## Electrical Aspect of Design
