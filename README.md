@@ -60,6 +60,11 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 
 ## Electrical Aspect of Design
 - We used microcontrollers for BOT movement and nozzle movement.
+- 
+![Bot Design](https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/f4b60d628c136bc5f5cb479726095843c95615be/Images%20and%20Videos/Images/BOT%20algorithm.jpg)
+<div align="center"><em>BOT algorithm</em></div>
+<br/>
+
 - We also used Ultrasonic distance sensors, Temperature sensors and Flame sensors.
 <br/>
 
