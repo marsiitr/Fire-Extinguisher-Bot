@@ -62,7 +62,7 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 - We used microcontrollers for BOT movement and nozzle movement.
 
 <p align="center">
-  <img src="https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/f4b60d628c136bc5f5cb479726095843c95615be/Images%20and%20Videos/Images/BOT%20algorithm.jpg"><br/>
+  <img src="https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/23faf35944cbc486b955082596ff5d89bd9d6b26/Images%20and%20Videos/Images/BOT%20algorithm.jpg"><br/>
   <i>BOT algorithm</i>
 </p>
 
