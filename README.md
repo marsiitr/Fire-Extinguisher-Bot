@@ -112,16 +112,16 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 </p>
 
 ## Team members
-1. [Akanksha vijayvergiya](https://github.com/Akanksha-247)
-2. [Eeshan punde](https://github.com/eeshanpunde14)
-3. [Ganesh kalanidhi](https://github.com/GaneshK-RKE)
-4. [Mritunjay kumar choubey](https://github.com/Ch0ubey)
-5. [Poreddy sahith reddy](https://github.com/sahithreddyporeddy)
-6. [Srushti parbat](https://github.com/SrushtiParbat)
+1. [Akanksha Vijayvergiya](https://github.com/Akanksha-247)
+2. [Eeshan Punde](https://github.com/eeshanpunde14)
+3. [Ganesh Kalanidhi](https://github.com/GaneshK-RKE)
+4. [Mritunjay Kumar Choubey](https://github.com/Ch0ubey)
+5. [Poreddy Sahith Reddy](https://github.com/sahithreddyporeddy)
+6. [Srushti Parbat](https://github.com/SrushtiParbat)
 ## Mentors
-1. [Naman agarwalla](https://github.com/naman99-agar)
-2. [Parul chaudhary](https://github.com/Parul253)
-3. [Shubham goyal](https://github.com/shubham491981)
+1. [Naman Agarwalla](https://github.com/naman99-agar)
+2. [Parul Chaudhary](https://github.com/Parul253)
+3. [Shubham Goyal](https://github.com/shubham491981)
 ## Refrences link
 - [Coppeliasim Tutorial](https://www.youtube.com/watch?v=PwGY8PxQOXY&list=PLjzuoBhdtaXOoqkJUqhYQletLLnJP8vjZ)
 - [Solidworks Tutorial](https://youtube.com/playlist?list=PLkMYhICFMsGajeARsY7N1t1jhbtMb1poL)
