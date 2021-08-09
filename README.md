@@ -1,5 +1,7 @@
-# Fire-Extinguisher-Bot
-## Open Projects 2021
+<p align="justify">
+<h1><b>Fire-Extinguisher-Bot</b></h1>
+  <h2>Open Projects 2021</h2>
+</p>
 
 ![Bot Design](https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/99d7aaeea15895aa91a57da3c2a6b9b1c1923cc6/Images%20and%20Videos/Images/Bot_view_1.jpg)
 <div align="center"><em>Bot View 1</em></div>
@@ -8,18 +10,32 @@
 ![Bot Design 2](https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/99d7aaeea15895aa91a57da3c2a6b9b1c1923cc6/Images%20and%20Videos/Images/Bot_view_4.PNG)
 <div align="center"><em>Bot View 2</em></div>
 <br/>
-
+ 
+<p align="justify">
+  <h2>Abstract</h2>
+</p>
 <p align="justify">
   
-## Abstract 
 - Automatic Fire Extinguisher Robot is a Hardware-based model used to put out the fire during fire accidents automatically. The Bot has features to move in the direction of fire  and extinguish it automatically.
 - The Bot finds its applications in rescue operations during fire accidents where concerned authorities can take time to enter the fire-prone areas.
 - Development of this autonomus bot using Controllers and image processing can help us to control fire without human inputs.Thus, minimising delays and unavailiblity of services.
+
+</p>
  
-## Motivation
+<p align="justify">
+  <h2>Motivation</h2>
+</p>
+<p align="justify">
+  
 The motivation behind this project essentially originated from our desire to learn new things. We can use this autonomous bot in case of laboratories or domestic fires, which can save lives or act as a quick remedy before the concerned authorities arrive. Although this technology is relatively unused in India, it can significantly impact the lives we lose to Fire incidents and our complete dependency on Emergency services.
 
-## Mechanical Aspect of Design
+</p>
+
+<p align="justify">
+  <h2>Mechanical Aspect of Design</h2>
+</p>
+<p align="justify">
+
 The Mechanical Design is explicitly made for significant weight carrying capacity. It is sturdy and reliable and can easily transverse through domestic terrain.
 The navigation of this can be both manual and automated. In the automatic mode, it is regulated via a PID Wall Following System.
 > ## Wheel Assembly
@@ -44,21 +60,27 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 > 
 >Leadscrew Mechanism can provide a torque of a considerable magnitude and resist the back force applied by the handle. Due to these factors, we use a leadscrew mechanism for handle pushing in our bot.
 
+</p>
 <p align="center">
   <img src="https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/734ad0370c93da568aa504aa3b49e69dac5bd6af/Images%20and%20Videos/Images/Leadscrew%20mechanism.jpeg"><br/>
   <i>Leadscrew mechanism</i>
 </p>
-
+<p align="justify">
+ 
 > ## Stair Climbing
 > 
 >The stair climbing mechanism works based on two-timing belts, positioned at an angle of 23 Degrees from the ground. We decided on this angle after a brief round of simulation on coppeliasim.
 
+</p>
 <p align="center">
   <img src="https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/99d7aaeea15895aa91a57da3c2a6b9b1c1923cc6/Images%20and%20Videos/Images/Bot_view_3.PNG">
   <br/><i>Wheel assembly</i>
 </p>
-
-## Electrical Aspect of Design
+<p align="justify">
+  <h2>Electrical Aspect of Design</h2>
+</p>
+<p align="justify">
+  
 - We used microcontrollers for BOT movement and nozzle movement.
 
 <p align="center">
@@ -79,14 +101,23 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 ![Bot Design](https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/734ad0370c93da568aa504aa3b49e69dac5bd6af/Images%20and%20Videos/Images/Image_processing_openCV.jpg)
 <div align="center"><em>Image processing</em></div>
 <br/>
+</p>
 
-## Applications
+<p align="justify">
+  <h2>Applications</h2>
+</p>
+<p align="justify">
+  
 - The main objective of the fire extinguishing bot is to search for the fire and put it off. Sensors are used to evaluate the environment in which the bot is operating and allows the bot to adjust actions based on collected data. The buzzer used will be helpful in alarming people about the danger.
 - As it is an autonomus bot which uses Controllers and image processing, so it can help us to control fire without human inputs.
 - Using this bot we can minimise delays and unavailiblity of services during emergency.
 - It can be highly useful in extinguishing fire where probability of explosion is high. For eg. Hotel kitchens, LPG/CNG gas stores, etc.
 
-## Cost Structure
+</p>
+<p align="justify">
+  <h2>Cost Structure</h2>
+</p>
+
 | Components   |Amount(INR)  |      Quantity      |  Cost(INR) |
 |----------    |:------:|:-------------:     |------:|
 | Ultrasonic sensors     |  75    |  7     |  525 |
@@ -99,32 +130,55 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 |Lead screw|100|1| 100|
 |**Total Cost**| | |**4559**|
 
+<p align="justify">
+  <h2>Limitations</h2>
+</p>
 
-## Limitations
 - Takes time to detect fire
 - Needs manual assistance while changing the fire extinguishers
 - Usable for household fires only
-## Future Improvement
+<p align="justify">
+  <h2>Future Improvement</h2>
+</p>
+<p align="justify">
+ 
 * Install cameras in every room
 * Link with smoke sensors in the area
 * Use custom made cylinders to avoid manual assistance
 
+ </p>
+<p align="justify">
+  <h2>Team members</h2>
 </p>
+<p align="justify">
 
-## Team members
 1. [Akanksha Vijayvergiya](https://github.com/Akanksha-247)
 2. [Eeshan Punde](https://github.com/eeshanpunde14)
 3. [Ganesh Kalanidhi](https://github.com/GaneshK-RKE)
 4. [Mritunjay Kumar Choubey](https://github.com/Ch0ubey)
 5. [Poreddy Sahith Reddy](https://github.com/sahithreddyporeddy)
 6. [Srushti Parbat](https://github.com/SrushtiParbat)
-## Mentors
+
+</p>  
+<p align="justify">
+  <h2>Mentors</h2>
+</p>
+<p align="justify">
+
 1. [Naman Agarwalla](https://github.com/naman99-agar)
 2. [Parul Chaudhary](https://github.com/Parul253)
 3. [Shubham Goyal](https://github.com/shubham491981)
-## Refrences link
+
+</p>
+<p align="justify">
+  <h2>Refrences link</h2>
+</p>
+<p align="justify">
+  
 - [Coppeliasim Tutorial](https://www.youtube.com/watch?v=PwGY8PxQOXY&list=PLjzuoBhdtaXOoqkJUqhYQletLLnJP8vjZ)
 - [Solidworks Tutorial](https://youtube.com/playlist?list=PLkMYhICFMsGajeARsY7N1t1jhbtMb1poL)
 - [2 axis gimbal](https://www.youtube.com/watch?v=i6UoxhNlr1U)
 - [Image processing openCV](https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq)
 - [Coppeliasim Documentation](https://www.coppeliarobotics.com/helpFiles/index.html)
+
+  </p>
