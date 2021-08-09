@@ -36,7 +36,7 @@ The motivation behind this project essentially originated from our desire to lea
 </p>
 <p align="justify">
 
-The Mechanical Design is explicitly made for significant weight carrying capacity using mild steel as a material having composition of 0.2-0.3% carbon and manganese. It is sturdy and reliable and can easily transverse through domestic terrain.
+The Mechanical Design is explicitly made for significant weight carrying capacity using mild steel as a material having composition of 0.20-0.30% Carbon and Manganese. It is sturdy and reliable and can easily transverse through domestic terrain.
 The navigation of this can be both manual and automated. In the automatic mode, it is regulated via a PID Wall Following System.
 > ## Wheel Assembly
 > 
