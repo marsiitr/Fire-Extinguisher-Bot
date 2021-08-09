@@ -1,6 +1,6 @@
 # Fire-Extinguisher-Bot
 ## Open Projects 2021
-----
+
 ![Bot Design](https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/99d7aaeea15895aa91a57da3c2a6b9b1c1923cc6/Images%20and%20Videos/Images/Bot_view_1.jpg)
 <div align="center"><em>Bot View 1</em></div>
 <br/>
