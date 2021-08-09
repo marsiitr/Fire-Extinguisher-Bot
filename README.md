@@ -128,7 +128,13 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 |Encoder|1500|1| 1500|
 |Dc motors|1500|1| 1500|
 |Lead screw|100|1| 100|
-|**Total Cost**| | |**4559**|
+|Timing belt (G/GB type) | 400| 1 |400|
+|Wheels(lower) |480| 6|2880|
+|Wheels(upper)|320 | 2|640|
+|3D Printing Filament| 1200|1|1200|
+|Fire extinguisher (ABC powder 4kg)|1000|2|2000|
+|Mild steel (Body material)|50|2|100|
+|**Total Cost**| | |**11779**|
 
 <p align="justify">
   <h2>Limitations</h2>
