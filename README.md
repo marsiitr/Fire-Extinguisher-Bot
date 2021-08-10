@@ -104,7 +104,7 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 </p>
 
 <p align="justify">
-  <h2>Simultion</h2>
+  <h2>Simulation</h2>
 </p>
 <p align="justify">
   
