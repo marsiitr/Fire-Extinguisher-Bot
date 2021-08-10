@@ -118,7 +118,7 @@ For simulation purpose we used the following things:-
 - Python and openCV
     > For Image processing to detect fire and marking that center of fire (high intensity zone) with circle. 
 
-For elaborative explation, you can refer [here](https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/49c68fb09d31af3eed7d412b4f8d0a11268a28de/Simulation/README.md).
+For elaborative explanation, you can refer [here](https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/49c68fb09d31af3eed7d412b4f8d0a11268a28de/Simulation/README.md).
 
 </p>
 <p align="justify">
