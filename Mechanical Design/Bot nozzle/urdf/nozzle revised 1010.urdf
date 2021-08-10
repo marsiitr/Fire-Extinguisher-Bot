@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This URDF was automatically created by SolidWorks to URDF Exporter! Originally created by Stephen Brawner (brawner@gmail.com) 
+     Commit Version: 1.6.0-1-g15f4949  Build Version: 1.6.7594.29634
+     For more information, please see http://wiki.ros.org/sw_urdf_exporter -->
+<robot
+  name="nozzle revised 1010">
+  <link
+    name="upper nozzle 0101">
+    <inertial>
+      <origin
+        xyz="0.164556086364158 -0.470822788929733 0.383503083705763"
+        rpy="0 0 0" />
+      <mass
+        value="0.00486150876325971" />
+      <inertia
+        ixx="1.93738317208025E-07"
+        ixy="-1.85098526321777E-16"
+        ixz="7.45392875337019E-17"
+        iyy="7.5367785725162E-07"
+        iyz="-3.81636134626254E-16"
+        izz="6.18895533193576E-07" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://nozzle revised 1010/meshes/upper nozzle 0101.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.792156862745098 0.819607843137255 0.933333333333333 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://nozzle revised 1010/meshes/upper nozzle 0101.STL" />
+      </geometry>
+    </collision>
+  </link>
+</robot>
