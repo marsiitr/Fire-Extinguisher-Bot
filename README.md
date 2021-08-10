@@ -108,7 +108,7 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 </p>
 <p align="justify">
   
-For simulation purpose we used the following things:-
+For simulation purpose we used the following softwares :-
 - Solidworks
     > For mechanical designing of our BOT.
 - Tinkercad
