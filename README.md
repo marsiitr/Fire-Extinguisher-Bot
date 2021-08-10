@@ -104,6 +104,24 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 </p>
 
 <p align="justify">
+  <h2>Simultion</h2>
+</p>
+<p align="justify">
+  
+For simulation purpose we used the following things:-
+- Solidworks
+    > For mechanical designing of our BOT.
+- Tinkercad
+    > For simulating Temperature sensor working.
+- Coppeliasim
+    > For simulating Stair climbing, Wall detection, Wheel PID and Fire detection.
+- Python and openCV
+    > For Image processing to detect fire and marking that center of fire (high intensity zone) with circle. 
+
+For elaborative explation of last two you can refer [here](https://github.com/Ch0ubey/Fire-Extinguisher-Bot/blob/49c68fb09d31af3eed7d412b4f8d0a11268a28de/Simulation/README.md).
+
+</p>
+<p align="justify">
   <h2>Applications</h2>
 </p>
 <p align="justify">
