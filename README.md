@@ -134,7 +134,7 @@ The navigation of this can be both manual and automated. In the automatic mode, 
 |3D Printing Filament| 1200|1|1200|
 |Fire extinguisher (ABC powder 4kg)|1000|2|2000|
 |Mild steel (Body material)|50|2|100|
-|**Total Cost**| | |**11779**|
+|**Total Cost**| | |**11699**|
 
 <p align="justify">
   <h2>Limitations</h2>
